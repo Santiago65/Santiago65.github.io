@@ -1,0 +1,61 @@
+{
+	"nombre": "Santiago",
+	"apellido": "Carreira",
+  "compania":"ARGENTINA PROGRAMA",
+  "plan":"#YoProgramo",
+	"image": "assets/img/profile.JPG",
+	"logo": "assets/img/APLogo-20-20.png",
+	"ciudad": "CIUDAD DE BS AS · ARGENTINA",
+	"telefono": "(11) 24000570",
+	"mail": "stgocarreira@gmail.com",
+	"sobreMi": {
+		"about": "Estudiante de Argentina Programa #YoProgramo 2da edición, Desarrollador Web Full Stack Jr. Mi objetivo es completar los diferentes cursos que estoy realizando y capacitarme para trabajar en el sector IT."
+	}
+
+	,
+	"experiencia": {
+		"expe": "EXPERIENCIA",
+		"titulo8": "DESARROLLADOR WEB FULL STACK JR",
+		"compania": "ARGENTINA PROGRAMA",
+		"expedesc": "Me encuentro cursando actualmente el curso de Desarrollador Web Full Stack Jr. en Argentina Programa."
+	},
+	"education": {
+		"educTitl": "EDUCACION",
+		"secundaria": "SECUNDARIA: COLEGIO NACIONAL Nº9 'JUSTO JOSÉ DE URQUIZA'",
+		"anio1": "1979 - 1983",
+		"title1": "BACHILLER",
+		"univer": "UNIVERSIDAD DE BUENOS AIRES",
+		"anio2": "1989 - SIN FINALIZAR",
+		"title2": "ABOGACÍA",
+		"terciario": "INST. DE EDUCACIÓN SUPERIOR N° 01 'DRA. ALICIA MOREAU DE JUSTO'",
+		"anio3": "2002 - SIN FINALIZAR",
+		"title3": "PROFESORADO EN LENGUA Y LITERATURA"
+	},
+	"hability": {
+		"habilidad": "HABILIDADES",
+		"lenguajes": "LENGUAJES DE PROGRAMACION Y HERRAMIENTAS"
+	},
+	"interes": {
+    "int":"INTERESES",
+		"resumen": "Las nuevas tecnologías, me gusta mucho la electrónica, las largas caminatas, el mar y nadar. Esuchar buena musica. De aca me gustan; Spinetta, Charly, Sumo, Manal entre otros. De afuera; Zappa, King Crimnson, E L & P, YES, etc. El cine y las series, Werner Herzog es uno de mis directores favoritos, el cine Italiano de los 50 a finales de los 70."
+	},
+	"certif": [{
+		"curso1": "Argentina Programa #Sé Programar",
+		"curso2": "Desarrollo de Apps Móviles - Google Actívate",
+		"curso3": "Introduccion al desarrollo Web I - Google Actívate",
+		"curso4": "Introduccion al desarrollo Web II - Google Actívate",
+		"curso5": "Responsive Web Design - freeCodeCamp"
+
+	}],
+	"pie": {
+		"footer": " © 2022 Santiago Carreira"
+	}
+
+
+}
+
+
+
+
+
+
