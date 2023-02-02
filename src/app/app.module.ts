@@ -13,6 +13,9 @@ import { InteresesComponent } from './componentes/intereses/intereses.component'
 import { CertificacionesComponent } from './componentes/certificaciones/certificaciones.component';
 import { FooterComponent } from './componentes/footer/footer.component';
 import {HttpClientModule}  from '@angular/common/http';
+import { IniciarSesionComponent } from './componentes/iniciar-sesion/iniciar-sesion.component';
+import { PortfolioComponent } from './componentes/portfolio/portfolio.component';
+
 
 @NgModule({
   declarations: [
@@ -25,7 +28,9 @@ import {HttpClientModule}  from '@angular/common/http';
     HabilidadesComponent,
     InteresesComponent,
     CertificacionesComponent,
-    FooterComponent
+    FooterComponent,
+    IniciarSesionComponent,
+    PortfolioComponent
   ],
   imports: [
     BrowserModule,
